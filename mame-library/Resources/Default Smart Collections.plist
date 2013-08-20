@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>limit</key>
+		<integer>50</integer>
+		<key>predicate</key>
+		<string>lastplayed != nil</string>
+		<key>sortBy</key>
+		<string>lastplayed</string>
+		<key>sortDescending</key>
+		<true/>
+		<key>title</key>
+		<string>Recently Played</string>
+	</dict>
+	<dict>
+		<key>limit</key>
+		<integer>50</integer>
+		<key>predicate</key>
+		<string>rating &gt; 4</string>
+		<key>sortBy</key>
+		<string>lastplayed</string>
+		<key>sortDescending</key>
+		<true/>
+		<key>title</key>
+		<string>Top Rated</string>
+	</dict>
+	<dict>
+		<key>sortDescending</key>
+		<true/>
+		<key>sortBy</key>
+		<string>year</string>
+		<key>predicate</key>
+		<string>year &gt; CAST(-645926400, &quot;NSDate&quot;) AND year &lt; CAST(-338342400, &quot;NSDate&quot;)</string>
+		<key>title</key>
+		<string>80&apos;s Games</string>
+	</dict>
+	<dict>
+		<key>sortBy</key>
+		<string>year</string>
+		<key>sortDescending</key>
+		<true/>
+		<key>predicate</key>
+		<string>year &gt; CAST(-338342400, &quot;NSDate&quot;) AND year &lt; CAST(-30758400, &quot;NSDate&quot;)</string>
+		<key>title</key>
+		<string>90&apos;s Games</string>
+	</dict>
+	<dict>
+		<key>sortBy</key>
+		<string>year</string>
+		<key>sortDescending</key>
+		<true/>
+		<key>predicate</key>
+		<string>year &gt; CAST(-30758400, &quot;NSDate&quot;)</string>
+		<key>title</key>
+		<string>2000&apos;s Games</string>
+	</dict>
+	<dict>
+		<key>sortBy</key>
+		<string>year</string>
+		<key>sortDescending</key>
+		<true/>
+		<key>predicate</key>
+		<string>year &gt; CAST(-30758400, &quot;NSDate&quot;)</string>
+		<key>title</key>
+		<string>2000&apos;s Games</string>
+	</dict>
+</array>
+</plist>

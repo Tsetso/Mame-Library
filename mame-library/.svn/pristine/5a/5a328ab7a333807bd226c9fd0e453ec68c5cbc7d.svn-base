@@ -1,0 +1,445 @@
+data/MLHeaderView.m.i
+data/MAME_Library_DataModel2.xcdatamodel/layout.i
+data/Resources/button_play-N.tiff.i
+data/Info.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Resources/tools-checkboxOn-P.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/KFSplitView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/NSOutlineView-DMExtensions.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/Sparkle.strings.i
+data/Unit Tests/Header View/main.m.i
+data/Resources/MAME_Library_DataModel1.xcdatamodel/elements.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/MLArtworkWindowController.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Unit Tests/Data Model/Info.plist.i
+data/Resources/button_addsmart-N.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/NSString+extras.h.i
+data/Unit Tests/Data Model/Data_Model_Prefix.pch.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/tools-checkboxOff-P.tiff.i
+data/MLToolbarBackgroundView.m.i
+data/MAME Library.xcodeproj/project.pbxproj.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Unit Tests/Header View/MLHeaderView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUUpdateAlert.nib/info.nib.i
+data/Unit Tests/Data Model/Data Model.xcodeproj/project.pbxproj.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Unit Tests/Data Model/MAMEXMLParser.h.i
+data/MLSliderCell.m.i
+data/Resources/flat_middle_left.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/Sparkle.strings.i
+data/Resources/flat_bottom_middle.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUUpdater.h.i
+data/DBSourceView.h.i
+data/MLHeaderViewButtonCell.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Unit Tests/Data Model/English.lproj/MainMenu.nib/classes.nib.i
+data/Resources/Preferences.nib/keyedobjects.nib.i
+data/Resources/English.lproj/MainMenu.nib/classes.nib.i
+data/MAME_Library_AppDelegate.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/Sparkle.strings.i
+data/Resources/missing.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/Sparkle.strings.i
+data/Resources/Inspector.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUUpdateAlert.nib/info.nib.i
+data/Resources/Preferences.nib/classes.nib.i
+data/MLSourceListSplitView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/Spotlight Importer/Source/GetMetadataForFile.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/MAME_Library_AppDelegate.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/button_add-D.tiff.i
+data/Resources/flat_top_left.png.i
+data/Resources/MAMEImport.nib/info.nib.i
+data/Unit Tests/Data Model/English.lproj/MainMenu.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdateAlert.nib/info.nib.i
+data/Unit Tests/Data Model/Data_Model_AppDelegate.m.i
+data/Resources/English.lproj/MainMenu.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/Source List Icons/SmartCollection16.png.i
+data/Resources/Inspector.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/Sparkle.strings.i
+data/Resources/Source List Icons/SmartCollection24.png.i
+data/constants.h.i
+data/MLOutlineView.h.i
+data/MLPreferencesController.m.i
+data/Unit Tests/Data Model/Data Model.xcodeproj/mrwalker.mode1.i
+data/Unit Tests/Header View/English.lproj/MainMenu.nib/classes.nib.i
+data/MLCheckboxButtonCell.m.i
+data/Resources/Preferences.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Collection Editor.xib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/RegexKitLite.h.i
+data/Resources/bottom_middle.png.i
+data/MLTableHeaderImageCell.m.i
+data/MLTableHeaderImageCell.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Resources/MAME_Library_DataModel3.xcdatamodel/elements.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/MLOutlineViewDragController.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUUpdateAlert.nib/info.nib.i
+data/NSString_MLExtensions.h.i
+data/Resources/button_play-D.tiff.i
+data/Resources/MAME_Library_Prefix.pch.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/MLHistoryParser.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/Sparkle.h.i
+data/MAME_Library_DataModel2.xcdatamodel/elements.i
+data/Resources/Sort Keys.plist.i
+data/Resources/English.lproj/MainMenu.nib/keyedobjects.nib.i
+data/Resources/English.lproj/MainMenu.nib/keyedobjects.nib.d
+data/Resources/version.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/MLMatrix.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Unit Tests/Header View/Header View_Prefix.pch.i
+data/Frameworks/Sparkle.framework/Headers.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/fr.lproj.i
+data/Resources/Source List Icons/Folder16.png.i
+data/Resources/Source List Icons/Folder32.png.i
+data/ImageAndTextCell.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUAppcastItem.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Resources/MAMEImport.nib/keyedobjects.nib.i
+data/Unit Tests/Header View/English.lproj/InfoPlist.strings.i
+data/MLGame.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/MLArtworkView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Unit Tests/Data Model/main.m.i
+data/Resources/Knob_ImageZoomSlider-N.tiff.i
+data/Unit Tests/Data Model/Data_Model_DataModel.xcdatamodel/layout.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/CTGradient.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/MUPhotoView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/MLGamesTableView.m.i
+data/Resources/top_right.png.i
+data/PolishedWindow.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/MLControl.h.i
+data/Resources/list.tiff.i
+data/version.plist.i
+data/Resources/Source List Icons/Collection16.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Resources/Source List Icons/Library16.png.i
+data/MLCheckboxButton.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Resources/Artwork Viewer.nib/classes.nib.i
+data/Resources/MAMEImport.nib/classes.nib.i
+data/Spotlight Importer/Source/main.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/flat_bottom_left.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/Sparkle.strings.i
+data/Resources/icons.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/License.txt.i
+data/Resources/Source List Icons/Collection32.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/button_add-N.tiff.i
+data/MAME_Library_DataModel3.xcdatamodel/elements.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/MAME_Library_DataModel3.xcdatamodel/elements.d
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/SUModelTranslation.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdateAlert.nib/info.nib.i
+data/Resources/tools-checkboxOff-N.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/relaunch.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/Resources/Source List Icons/Library32.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdateAlert.nib/classes.nib.i
+data/iTableColumnHeaderCell.m.i
+data/Resources/top_middle.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Unit Tests/Data Model/English.lproj/InfoPlist.strings.i
+data/Resources/button_add-P.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/tools-checkboxOn-D.tiff.i
+data/MLSlider.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/NSFileManager+Verification.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Unit Tests/Data Model/Data_Model_DataModel.xcdatamodel/elements.i
+data/MAME Library.xcodeproj/xcuserdata/mrwalker.xcuserdatad/xcschemes/Spotlight Importer.xcscheme.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/NSOutlineView-DMExtensions.h.i
+data/Resources/MAME_Library_DataModel2.xcdatamodel/layout.i
+data/MLHeaderView.h.i
+data/Resources/corner.png.i
+data/MLCollection.m.i
+data/DBSourceSplitView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/KFSplitView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/MAME_Library_DataModel3.xcdatamodel/layout.i
+data/MAME Library.xcodeproj/xcuserdata/mrwalker.xcuserdatad/xcschemes/MAME Library.xcscheme.i
+data/Resources/bottom_left.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Sparkle.i
+data/Frameworks/Sparkle.framework/Versions/A/Sparkle.d
+data/Resources/MAME Library.xcodeproj/project.pbxproj.i
+data/Resources/tools-checkboxOn-N.tiff.i
+data/MLSliderCell.h.i
+data/MLArtworkWindowController.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Unit Tests/Header View/MLHeaderView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib/info.nib.i
+data/NSTreeController-DMExtensions.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/MLToolbarBackgroundView.h.i
+data/Spotlight Importer/Resources/Info.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Resources/Credits.rtf.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Resources/tools-checkboxOff-D.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Unit Tests/Data Model/MAMEXMLParser.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdateAlert.nib/info.nib.i
+data/Resources/button_play-P.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdateAlert.nib/info.nib.i
+data/Unit Tests/Data Model/Data Model.xcodeproj/mrwalker.pbxuser.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUVersionComparisonProtocol.h.i
+data/MAME Library.xcodeproj/project.xcworkspace/contents.xcworkspacedata.i
+data/Frameworks/Sparkle.framework/Sparkle.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/NSApplication+AppCopies.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/Sparkle.strings.i
+data/Resources/header_gradient_flipped.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdateAlert.nib/info.nib.i
+data/Resources/button_addsmart-D.tiff.i
+data/Resources/Knob_ImageZoomSlider-P.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/Resources/Blinky-Zoom-lg.png.i
+data/MLMatrix.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/DBSourceView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdateAlert.nib/info.nib.i
+data/Resources/Source List Icons/Collection24.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/MLPreferencesController.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/MLOutlineView.m.i
+data/Resources/flat_top_middle.png.i
+data/MLHeaderViewButtonCell.m.i
+data/MUPhotoView.h.i
+data/Resources/flat_bottom_right.png.i
+data/MLGamesTableView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdateAlert.nib/info.nib.i
+data/MAMEXMLParser.m.i
+data/Resources/MAME Library.icns.i
+data/Resources/MAME_Library_DataModel3.xcdatamodel/layout.i
+data/Resources/MAME Library.icns.d
+data/main.m.i
+data/Resources/Source List Icons/Library24.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/Sparkle.strings.i
+data/Resources/Default Smart Collections.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Unit Tests/Data Model/Data_Model_AppDelegate.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/NSString_MLExtensions.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/MAME Library.xcodeproj/project.xcworkspace/xcuserdata/mrwalker.xcuserdatad/UserInterfaceState.xcuserstate.i
+data/MLSourceListSplitView.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/Resources/Source List Icons/Folder24.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUUpdateAlert.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/MAMEXMLParser.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUUnarchiver.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/SUUpdateAlert.nib/classes.nib.i
+data/MAME_Library_DataModel2.xcdatamodel/elements.d
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Resources/button_addsmart-P.tiff.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/MLArtworkView.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib/info.nib.i
+data/RegexKitLite.m.i
+data/Resources/Inspector.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Resources/flat_top_right.png.i
+data/Resources/Artwork Viewer.nib/keyedobjects.nib.i
+data/MAME Library.xcodeproj/xcuserdata/mrwalker.xcuserdatad/xcschemes/xcschememanagement.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUUtilities.h.i
+data/MLCheckboxButtonCell.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Resources/English.lproj/InfoPlist.strings.i
+data/MLHistoryParser.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdateAlert.nib/classes.nib.i
+data/CTGradient.m.i
+data/Frameworks/Sparkle.framework/Resources.i
+data/Unit Tests/Header View/Header View.xcodeproj/project.pbxproj.i
+data/MAME_Library_DataModel1.xcdatamodel/elements.i
+data/Resources/test-signal.gif.i
+data/Frameworks/Sparkle.framework/Versions/Current.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/NSFileManager+Authentication.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUAutomaticUpdateAlert.h.i
+data/Resources/MAME_Library_DataModel1.xcdatamodel/layout.i
+data/MAME_Library_DataModel1.xcdatamodel/elements.d
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib/classes.nib.i
+data/MLSlider.m.i
+data/MLOutlineViewDragController.m.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUStatusController.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/Info.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/MAME_Library_Prefix.pch.i
+data/Resources/flat_middle_right.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUConstants.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib/info.nib.i
+data/MLCheckboxButton.h.i
+data/MLCollection.h.i
+data/Unit Tests/Data Model/version.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/id.lproj/Sparkle.strings.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/Resources/Blinky-Zoom-sm.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/PolishedWindow.m.i
+data/MLGame.m.i
+data/Unit Tests/Header View/English.lproj/MainMenu.nib/info.nib.i
+data/MAME_Library_DataModel1.xcdatamodel/layout.i
+data/Resources/Source List Icons/SmartCollection32.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/no.lproj/SUUpdateAlert.nib/info.nib.i
+data/MLControl.m.i
+data/Resources/bottom_right.png.i
+data/Resources/MAME_Library_DataModel2.xcdatamodel/elements.i
+data/Resources/grid_view_active.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUAutomaticUpdateAlert.nib/classes.nib.i
+data/iTableColumnHeaderCell.h.i
+data/Resources/header_gradient.png.i
+data/Resources/Overlay.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUAppcast.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cy.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Unit Tests/Data Model/English.lproj/MainMenu.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/SUStatusChecker.h.i
+data/Resources/top_left.png.i
+data/Unit Tests/Data Model/Structure.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib/keyedobjects.nib.i
+data/Unit Tests/Header View/English.lproj/MainMenu.nib/keyedobjects.nib.i
+data/Resources/English.lproj/MainMenu.nib/designable.nib.i
+data/NSTreeController-DMExtensions.m.i
+data/Unit Tests/Header View/Info.plist.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/hu.lproj/SUAutomaticUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdateAlert.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdateAlert.nib/keyedobjects.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Headers/RSS.h.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdatePermissionPrompt.nib/keyedobjects.nib.i
+data/Resources/Artwork Viewer.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdatePermissionPrompt.nib/classes.nib.i
+data/ImageAndTextCell.m.i
+data/DBSourceSplitView.m.i
+data/Resources/table_view_active.png.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdateAlert.nib/classes.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdatePermissionPrompt.nib/info.nib.i
+data/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj.i
